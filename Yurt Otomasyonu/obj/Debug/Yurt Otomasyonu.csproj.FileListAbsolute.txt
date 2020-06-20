@@ -1,0 +1,124 @@
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojResolveAssemblyReference.cache
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.Cache
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.AnaForm.resources
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Mevcutİslemler.resources
+c:\users\dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yenislem.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Tümİzinler.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yeni_İzin.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.TümÖğrenciler.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Ögrenciİslemleri.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdemeIslemleri.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Taksitler.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.SifreIslemleri.resources
+C:\Users\Dell\documents\visual studio 2015\Projects\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaIslemleri.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojResolveAssemblyReference.cache
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.AnaForm.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Mevcutİslemler.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdemeIslemleri.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.SifreIslemleri.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Taksitler.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaIslemleri.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.TümÖğrenciler.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Tümİzinler.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yenislem.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Ögrenciİslemleri.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yeni_İzin.resources
+E:\Projeler\Yurt Otomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.Cache
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.AnaForm.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Mevcutİslemler.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdemeIslemleri.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.SifreIslemleri.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Taksitler.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaIslemleri.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.TümÖğrenciler.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Tümİzinler.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yenislem.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Ögrenciİslemleri.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yeni_İzin.resources
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+C:\Users\asus\Desktop\Yeni klasör (4)\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.AnaForm.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Mevcutİslemler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdemeIslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.SifreIslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Taksitler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaIslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.TümÖğrenciler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Tümİzinler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yenislem.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Ögrenciİslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yeni_İzin.resources
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+C:\Users\asus\Desktop\YurtOtomasyonu - Kopya\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojAssemblyReference.cache
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.AnaForm.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Mevcutİslemler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdemeIslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.SifreIslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Taksitler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaIslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.TümÖğrenciler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Tümİzinler.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yenislem.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Ögrenciİslemleri.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yeni_İzin.resources
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.cache
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.CoreCompileInputs.cache
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+C:\Users\asus\Desktop\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe.config
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.exe
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\bin\Debug\Yurt Otomasyonu.pdb
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csprojAssemblyReference.cache
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.AnaForm.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Form1.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Mevcutİslemler.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdemeIslemleri.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Properties.Resources.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.SifreIslemleri.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Taksitler.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.OdaIslemleri.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.TümÖğrenciler.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Tümİzinler.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yenislem.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Ögrenciİslemleri.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt_Otomasyonu.Yeni_İzin.resources
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.GenerateResource.cache
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.csproj.CoreCompileInputs.cache
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.exe
+D:\Windows Kits\yNs\Veritabanı Yönetim Sistemleri\YurtOtomasyonu\Yurt Otomasyonu\obj\Debug\Yurt Otomasyonu.pdb
