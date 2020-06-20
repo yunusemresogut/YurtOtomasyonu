@@ -9,6 +9,6 @@ Projenin amacı; öğrenci yurtlarındaki, öğrencilerin işlemlerinin eksiksiz
 
 ![admin](https://user-images.githubusercontent.com/39992759/85205895-f80dbb00-b326-11ea-8106-f38b154a9363.png)
 
-![yeniislem](https://user-images.githubusercontent.com/39992759/85205911-14115c80-b327-11ea-8d21-21c9b3047490.png)
+![Inkedyeniislem_LI](https://user-images.githubusercontent.com/39992759/85206032-d4974000-b327-11ea-9173-7bcb1c11b12a.jpg)
 
 ![yönetici](https://user-images.githubusercontent.com/39992759/85205915-183d7a00-b327-11ea-9b8f-9803e3bf735b.png)
